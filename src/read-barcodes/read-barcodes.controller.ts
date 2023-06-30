@@ -1,4 +1,4 @@
-import { Controller, Post, Req } from '@nestjs/common';
+import { Controller, Post, Req, Request } from '@nestjs/common';
 
 @Controller('readBarcodes')
 export class ReadBarcodesController {
