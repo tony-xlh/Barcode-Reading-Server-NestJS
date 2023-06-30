@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/tony-xlh/Barcode-Reading-Server-NestJS#readme",
   "dependencies": {
-    "barcode4nodejs": "^9.6.22"
+    "barcode4nodejs": "^9.6.23"
   }
 }
